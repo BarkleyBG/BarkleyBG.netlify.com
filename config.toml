@@ -20,10 +20,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About Brian"
     url = "/about/"
 [[menu.main]]
-    name = "github.com/BarkleyBG"
+    name = "My GitHub"
     url = "https://github.com/BarkleyBG"
 [[menu.main]]
-    name = "twitter.com/BarkleyBG"
+    name = "My Twitter"
     url = "https://twitter.com/BarkleyBG"
 
 [params]
