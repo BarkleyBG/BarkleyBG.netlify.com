@@ -43,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     dateFormat = "2006/01/02"
 
     [params.logo]
-    url = "logo.png"
+    url = "b2_logo.png"
     width = 50
     height = 50
     alt = "Logo"
