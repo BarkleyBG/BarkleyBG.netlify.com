@@ -14,13 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "About Brian"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
+    name = "github.com/BarkleyBG"
     url = "https://github.com/BarkleyBG"
 [[menu.main]]
-    name = "Twitter"
+    name = "twitter.com/BarkleyBG"
     url = "https://twitter.com/BarkleyBG"
 
 [params]
