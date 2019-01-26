@@ -1,0 +1,16 @@
+---
+title: "Hello, Blogdown"
+author: "Brian G. Barkley"
+date: "`r Sys.Date()`"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Back to it
+
+Hi all, I'm excited to get back to social media! I took a short break in 2018 to earn my PhD, move across the country, and start my career in data science. I'm happy to report that Kohl's is treating me well, and I am excited for what we have planned.
+

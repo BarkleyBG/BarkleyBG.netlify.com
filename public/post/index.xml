@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brian Barkley&#39;s website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Brian Barkley&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, Blogdown</title>
+      <link>/2019/01/06/hello-blogdown/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/06/hello-blogdown/</guid>
+      <description> Back to it Hi all, I’m excited to get back to social media! I took a short break in 2018 to earn my PhD, move across the country, and start my career in data science. I’m happy to report that Kohl’s is treating me well, and I am excited for what we have planned.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
