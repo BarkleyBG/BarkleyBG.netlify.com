@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Brian Barkley&#39;s website</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Brian Barkley&#39;s website</description>
+    <title>Blogdown on Brian Barkley&#39;s website</title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in Blogdown on Brian Barkley&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/2019/01/26/hack-n-tell-2019-jan/</guid>
       <description>This website is now live! I spent several hours at Rokkincat’s Hack &amp;amp; Tell reading more about blogdown and netflify, and toying with a few settings.
 One big thing that I’ve been wanting to do is start a catalogue of the data science activities in Milwaukee. There is a lot of beauty in Milwaukee, and also a lot of need. The MKE community also has many talented professions working Saturdays on side projects and hobbies that make Milwaukee a better place.</description>
-    </item>
-    
-    <item>
-      <title>Hello, Blogdown</title>
-      <link>/2019/01/06/hello-blogdown/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/06/hello-blogdown/</guid>
-      <description> Back to it Hi all, I’m excited to get back to social media! I took a short break in 2018 to earn my PhD, move across the country, and start my career in data science. I’m happy to report that Kohl’s is treating me well, and I am excited for what we have planned.
- </description>
     </item>
     
   </channel>
