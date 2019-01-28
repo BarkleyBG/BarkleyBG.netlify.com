@@ -42,7 +42,7 @@ Here are some of the Meetup groups and events that I like:
 
 ## Other Milwaukee News 
 
-Here are some things I enjoyed reading, and I think are worth sharing
+Here are some things I enjoyed learning about, and I think are worth sharing
 
 - [We Got This MKE](https://wegotthismke.com/)
   - [JSOnline article:](https://projects.jsonline.com/news/2018/12/7/milwaukee-community-garden-produces-free-vegetables-safe-place-for-boys.html) _In Milwaukee's poorest ZIP code, fruits and vegetables become powerful weapons for saving young boys_
@@ -54,6 +54,8 @@ Here are some things I enjoyed reading, and I think are worth sharing
       - _expand social perspectives by diminishing preconceived assumptions._
 - [Progressive Community Health Centers](http://www.progressivechc.org/about-us/) 
   - _Since 1999, Progressive Community Health Centers has provided high quality, comprehensive health care and social services to patients of all ages and incomes for Milwaukee area residents._
+- [ACTS Housing](https://actshousing.org/): 
+  - _ACTS serves diverse families throughout Milwaukee’s inner city. Most home owners purchase formerly vacant, vandalized foreclosures.Usually rehab costs are less than demolition and new owners save hundreds on their monthly housing costs._
 - [Addressing Health From All Angles in Milwaukee](https://www.buildhealthyplaces.org/whats-new/addressing-health-angles-milwaukee/)
 - [Smart Cities Wisconsin](https://wismartcities-smartfutures.com/)
 - [200 Nights of Freedom](http://200nightsoffreedom.org/) was _the central program of the March On Milwaukee 50th anniversary commemoration_ of the 1967-1968 marches demanding an end to housing segregation.
