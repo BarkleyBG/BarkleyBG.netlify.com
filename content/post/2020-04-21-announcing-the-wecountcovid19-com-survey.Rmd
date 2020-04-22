@@ -9,7 +9,7 @@ tags: ["Milwaukee", "COVID19", "Code for Milwaukee", "WeCountCOVID19.com"]
 
 I am excited to announce that **the [WeCountCOVID19.com](www.WeCountCOVID19.com) survey is live!**
 
-I am so excited to describe the [WeCountCOVID19.com](www.WeCountCOVID19.com) survey in detail, and to ask you to use it. I'm so excited for this, in fact, that I'm writing a blog post for the first time in more than a year! In this time, I've been volunteering lots of my time as a co-founding member and the Communications Lead at [Code for Milwaukee](https://codeformilwaukee.org/), which is Wisconsin's only Code for America brigade, aiming to enhance the delivery of public services to help make Milwaukee a safer, healthier, and more fun place to live. More on this later.
+I'm so excited for this, in fact, that I'm writing a blog post for the first time in more than a year! Skip down to to bottom to learn about how the survey came to be, and my work with [Code for Milwaukee](https://codeformilwaukee.org/).
 
 ## About the [WeCountCOVID19.com](www.WeCountCOVID19.com) survey
 
@@ -35,9 +35,13 @@ This blog post is the first in a many-part series about the WeCountCOVID19.com s
 ---
 About Code for Milwaukee
 
-I've updated this blog site with information on Code for Milwaukee [in the header](https://barkleybg.netlify.app/ds4mke/). Among many other events Code for Milwaukee hosts a Hack Night on the Third Thursday of every month. A list of all CfM events is [on our Meetup page](https://www.meetup.com/Code-for-Milwaukee/events), and anyone is welcome.
 
-Please follow our meetup page, or RSVP to an upcoming event. I hope to see you there soon! Until then, find more information at [https://codeformilwaukee.org/](https://codeformilwaukee.org/) or follow [@codeformke](https://twitter.com/codeformke) on twitter.
+
+In this time, I've been volunteering lots of my time as a co-founding member and the Communications Lead at [Code for Milwaukee](www.codeformilwaukee.org), which is Wisconsin's only Code for America brigade. I've updated this blog site with information on Code for Milwaukee [in the header](https://barkleybg.netlify.app/ds4mke/). 
+
+Among many other events Code for Milwaukee hosts a Hack Night on the Third Thursday of every month. A list of all CfM events is [on our Meetup page](https://www.meetup.com/Code-for-Milwaukee/events), and anyone is welcome.
+
+Please follow our meetup page, or RSVP to an upcoming event. I hope to see you there soon! Until then, find more information at [https://codeformilwaukee.org/](https://codeformilwaukee.org/) or follow [`@codeformke`](https://twitter.com/codeformke) on twitter.
 
 
 
