@@ -5,8 +5,20 @@ date: "2019-01-26"
 
 There are a lot of awesome projects going on in the Milwaukee community. If you can help to make our home a better place, contact the organizers and offer your skills! 
 
+# Code for Milwaukee
 
-Feedback, suggestions, edits and additions are welcome! Contact me or file a pull request.
+In Spring 2019, we founded Code for Milwaukee (https://codeformilwaukee.org/), a non-profit, non-partisan organization with the mission of enhancing the delivery of public services to improve the lives of Milwaukeeans. Code for Milwaukee (CfM) is a Code for America brigade, and the only one in Wisconsin. 
+
+
+## Visit CfM events
+
+We (at CfM) been hosting at least one event every month to help build partnerships between community organizers and tech-savvy individuals, and to build tools to help make Milwaukee a safer, healthier, and more fun city to live in. Whether you're a software developer, community organizer, government employee, local businessperson, artist or storyteller, or a civic geek of any kinds and colors, you should stop by one of our events! We aim to create an open and inclusive atmosphere.
+
+We list our [upcoming events on Meetup](https://www.meetup.com/Code-for-Milwaukee/events) - so please swing on by whenever you're available! 
+
+If you'd like to see a friendly face when you arrive, or worried if this is "for you", or have any questions whatsoever, please email or tweet or just get in touch with me. I am happy to help!
+
+# More projects?
 
 ## Data Science Projects in Milwaukee
 

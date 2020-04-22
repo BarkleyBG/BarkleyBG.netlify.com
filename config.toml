@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Data Science 4 Milwaukee"
+    name = "Code for Milwaukee"
     url = "/DS4MKE/"
 [[menu.main]]
     name = "About Brian"
