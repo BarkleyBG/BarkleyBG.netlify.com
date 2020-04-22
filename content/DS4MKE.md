@@ -5,12 +5,12 @@ date: "2019-01-26"
 
 There are a lot of awesome projects going on in the Milwaukee community. If you can help to make our home a better place, contact the organizers and offer your skills! 
 
-# Code for Milwaukee
+## Code for Milwaukee
 
 In Spring 2019, we founded Code for Milwaukee (https://codeformilwaukee.org/), a non-profit, non-partisan organization with the mission of enhancing the delivery of public services to improve the lives of Milwaukeeans. Code for Milwaukee (CfM) is a Code for America brigade, and the only one in Wisconsin. 
 
 
-## Visit CfM events
+### Visit CfM events
 
 We (at CfM) been hosting at least one event every month to help build partnerships between community organizers and tech-savvy individuals, and to build tools to help make Milwaukee a safer, healthier, and more fun city to live in. Whether you're a software developer, community organizer, government employee, local businessperson, artist or storyteller, or a civic geek of any kinds and colors, you should stop by one of our events! We aim to create an open and inclusive atmosphere.
 
@@ -18,9 +18,9 @@ We list our [upcoming events on Meetup](https://www.meetup.com/Code-for-Milwauke
 
 If you'd like to see a friendly face when you arrive, or worried if this is "for you", or have any questions whatsoever, please email or tweet or just get in touch with me. I am happy to help!
 
-# More projects?
+## More projects?
 
-## Data Science Projects in Milwaukee
+### Data Science Projects in Milwaukee
 
 
 - Explore property sales/assessments in the city at: http://mprop.mitchellhenke.com/#/ 
@@ -38,7 +38,7 @@ Here are some organizations relating to publicly available MKE data:
 - [City of MKE announcements](https://city.milwaukee.gov/mkedata#.XEyu8c9KiAw)
 - [Data You Can Use: MKE NNIP partner](https://www.neighborhoodindicators.org/partner/127)
 
-### Recurrent events for MKE coders:
+#### Recurrent events for MKE coders:
 
 Here are some of the Meetup groups and events that I like:
 
@@ -52,7 +52,7 @@ Here are some of the Meetup groups and events that I like:
   - [MKE Data Science](https://www.meetup.com/Milwaukee-Data-Science/)
 
 
-## Other Milwaukee News 
+### Other Milwaukee News 
 
 Here are some things I enjoyed learning about, and I think are worth sharing
 
@@ -72,6 +72,6 @@ Here are some things I enjoyed learning about, and I think are worth sharing
 - [Smart Cities Wisconsin](https://wismartcities-smartfutures.com/)
 - [200 Nights of Freedom](http://200nightsoffreedom.org/) was _the central program of the March On Milwaukee 50th anniversary commemoration_ of the 1967-1968 marches demanding an end to housing segregation.
 
-## Misc Data Science for Social Good
+### Misc Data Science for Social Good
 
 - [Chi Hack Night](https://chihacknight.org/) _Chicago's weekly event to build, share & learn about civic tech_

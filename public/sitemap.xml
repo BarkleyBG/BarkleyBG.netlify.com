@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/04/21/announcing-the-wecountcovid19-com-survey/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ds4mke/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +20,6 @@
   <url>
     <loc>/2019/01/26/hack-n-tell-2019-jan/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -36,13 +41,37 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/code-for-milwaukee/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/code-for-milwaukee/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/covid19/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/covid19/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,13 +83,13 @@
   
   <url>
     <loc>/tags/milwaukee/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/milwaukee/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +101,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,6 +126,18 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wecountcovid19.com/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/wecountcovid19.com/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

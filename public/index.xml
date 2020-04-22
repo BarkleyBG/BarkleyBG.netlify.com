@@ -6,10 +6,30 @@
     <description>Recent content on Brian Barkley&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I work as a marketing data scientist for Kohl&amp;rsquo;s in Milwaukee, focusing on developing machine learning products. I volunteer my time as a founding member and the Communications Lead for Code for Milwaukee, a local Code for America brigade (please see above).
+I earned a PhD in Biostatistics from UNC-Chapel Hill, studying causal inference from observational studies of infectious disease. I also hold degrees from UW-Milwaukee and Kalamazoo College. I enjoy solving real problems with data in a repdroducible manner, and handing working code with good comments and documentation off to others.</description>
+    </item>
+    
+    <item>
+      <title>Announcing the WeCountCOVID19.com Survey (Part 1)</title>
+      <link>/2020/04/21/announcing-the-wecountcovid19-com-survey/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/21/announcing-the-wecountcovid19-com-survey/</guid>
+      <description>I am excited to announce that the WeCountCOVID19.com survey is live!
+I am so excited to describe the WeCountCOVID19.com survey in detail, and to ask you to use it. I’m so excited for this, in fact, that I’m writing a blog post for the first time in more than a year! In this time, I’ve been volunteering lots of my time as a co-founding member and the Communications Lead at Code for Milwaukee, which is Wisconsin’s only Code for America brigade, aiming to enhance the delivery of public services to help make Milwaukee a safer, healthier, and more fun place to live.</description>
+    </item>
     
     <item>
       <title>Data Science in the Milwaukee Community</title>
@@ -29,16 +49,6 @@ Code for Milwaukee In Spring 2019, we founded Code for Milwaukee (https://codefo
       <guid>/2019/01/26/hack-n-tell-2019-jan/</guid>
       <description>This website is now live! I spent several hours at Rokkincat’s Hack &amp;amp; Tell reading more about blogdown and netflify, and toying with a few settings.
 One big thing that I’ve been wanting to do is start a catalogue of the data science activities in Milwaukee. There is a lot of beauty in Milwaukee, and also a lot of need. The MKE community also has many talented professions working Saturdays on side projects and hobbies that make Milwaukee a better place.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I work as a marketing data scientist for Kohl&amp;rsquo;s in Milwaukee. I earned a PhD in Biostatistics from UNC-Chapel Hill, studying causal inference from observational studies of infectious disease. I also hold degrees from UW-Milwaukee and Kalamazoo College. I enjoy solving real problems with data in a repdroducible manner, and handing working code with good comments and documentation off to others.
-I love music and being outside. One day I&amp;rsquo;ll become an eccentric surfer dude on the shores of Lake Michigan.</description>
     </item>
     
     <item>

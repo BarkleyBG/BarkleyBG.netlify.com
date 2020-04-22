@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Milwaukee on Brian Barkley&#39;s website</title>
-    <link>/tags/milwaukee/</link>
-    <description>Recent content in Milwaukee on Brian Barkley&#39;s website</description>
+    <title>Code for Milwaukee on Brian Barkley&#39;s website</title>
+    <link>/categories/code-for-milwaukee/</link>
+    <description>Recent content in Code for Milwaukee on Brian Barkley&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/milwaukee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/code-for-milwaukee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/2020/04/21/announcing-the-wecountcovid19-com-survey/</guid>
       <description>I am excited to announce that the WeCountCOVID19.com survey is live!
 I am so excited to describe the WeCountCOVID19.com survey in detail, and to ask you to use it. I’m so excited for this, in fact, that I’m writing a blog post for the first time in more than a year! In this time, I’ve been volunteering lots of my time as a co-founding member and the Communications Lead at Code for Milwaukee, which is Wisconsin’s only Code for America brigade, aiming to enhance the delivery of public services to help make Milwaukee a safer, healthier, and more fun place to live.</description>
-    </item>
-    
-    <item>
-      <title>Hack &amp; Tell: Data Science in MKE</title>
-      <link>/2019/01/26/hack-n-tell-2019-jan/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/26/hack-n-tell-2019-jan/</guid>
-      <description>This website is now live! I spent several hours at Rokkincat’s Hack &amp;amp; Tell reading more about blogdown and netflify, and toying with a few settings.
-One big thing that I’ve been wanting to do is start a catalogue of the data science activities in Milwaukee. There is a lot of beauty in Milwaukee, and also a lot of need. The MKE community also has many talented professions working Saturdays on side projects and hobbies that make Milwaukee a better place.</description>
     </item>
     
   </channel>

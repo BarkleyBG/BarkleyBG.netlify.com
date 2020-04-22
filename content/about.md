@@ -1,9 +1,11 @@
 ---
 title: "About Me"
-date: "2019-01-06"
+date: "2020-04-21"
 ---
 
-I work as a marketing data scientist for Kohl's in Milwaukee. I earned a PhD in Biostatistics from UNC-Chapel Hill, studying causal inference from observational studies of infectious disease. I also hold degrees from UW-Milwaukee and Kalamazoo College. I enjoy solving real problems with data in a repdroducible manner, and handing working code with good comments and documentation off to others.
+I work as a marketing data scientist for Kohl's in Milwaukee, focusing on developing machine learning products. I volunteer my time as a founding member and the Communications Lead for Code for Milwaukee, a local Code for America brigade ([please see above]((https://barkleybg.netlify.app/ds4mke/))).
+
+I earned a PhD in Biostatistics from UNC-Chapel Hill, studying causal inference from observational studies of infectious disease. I also hold degrees from UW-Milwaukee and Kalamazoo College. I enjoy solving real problems with data in a repdroducible manner, and handing working code with good comments and documentation off to others.
 
 I love music and being outside. One day I'll become an eccentric surfer dude on the shores of Lake Michigan.
 
